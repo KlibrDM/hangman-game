@@ -1,5 +1,8 @@
 # hangman-game
 Live preview: https://klibrdm.github.io/hangman-game/
+
+Also check out the remake made with ReactJS https://github.com/KlibrDM/hangman-game-react
+
 ## Screenshot
 ![screenshot](https://i.imgur.com/tXeip1P.jpg)
 ## Setup
